@@ -1,0 +1,24 @@
+# Node
+node_modules/
+package-lock.json
+
+# production
+/build
+/dist
+
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+*.egg
+venv/
+
+# Environment variables
+.env
+
+# System files
+.DS_Store
